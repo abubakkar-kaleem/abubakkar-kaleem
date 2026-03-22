@@ -1,12 +1,18 @@
-<h1 align="center">Muhammad Abubakkar Kaleem</h1>
-<h3 align="center">Software Engineer | AI-Integrated Systems | .NET & Cloud</h3>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0b1f3a,50:1f3b73,100:6d3a7c&text=Muhammad%20Abubakkar%20Kaleem&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Integrated%20Systems%20%7C%20.NET%20%7C%20Cloud&descAlignY=58&animation=fadeIn" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=24\&pause=1000\&color=58A6FF\&center=true\&vCenter=true\&width=900\&lines=Software+Engineer;Full+Stack+Developer;AI+Integrated+Application+Builder;.NET+%7C+ASP.NET+Core+%7C+AWS+%7C+OpenAI;Building+scalable+systems+with+real+impact)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://linkedin.com/in/muhammad-abubakkar-kaleem-a6441a184/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:abubakarkaleem23@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://abubakkarkaleem.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
@@ -14,94 +20,120 @@
   <img src="https://komarev.com/ghpvc/?username=abubakkar-kaleem&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
----
-
-## 👨‍💻 About Me
-
-I'm a **Software Engineer and Product Engineer** with ~4 years of experience building **scalable, secure enterprise applications**.
-
-- 🚀 Specialized in **.NET, Microservices, and Cloud Architecture**
-- 🤖 Building **AI-powered applications using OpenAI & LLM integrations**
-- ⚡ Focused on **clean architecture, performance, and business impact**
-- 🧠 Strong interest in **AI automation & intelligent systems**
-- 🤝 Collaborative, adaptable, and product-driven mindset
+</div>
 
 ---
 
-## 🧠 Research & Interests
+## 💫 About Me
 
-| Area | Topics |
-|------|--------|
-| 🤖 AI Integration | OpenAI APIs, LLM-based features, automation |
-| 🏗️ Backend Systems | Microservices, Distributed Systems, API Design |
-| ☁️ Cloud | AWS (Lambda, EC2, S3, CDK), scalable infra |
-| ⚡ Performance | Optimization, system stability, production debugging |
-| 🧩 Architecture | Clean Architecture, enterprise system design |
+I am a **Software Engineer and Product Engineer** with ~4 years of experience building **enterprise-grade applications using .NET technologies**.
 
----
+I have worked on multiple production systems, delivering **scalable, secure, and high-impact solutions** across different business domains. My work spans full stack development, but my focus goes beyond just building features, I aim to **solve real business problems and contribute to meaningful product outcomes**.
 
-## 🛠️ Tech Stack
+- 🚀 Design and build **scalable APIs, microservices, and distributed systems**
+- ⚡ Deliver **performance-optimized solutions** aligned with long-term architecture
+- 🤖 Integrate **AI capabilities using LLM APIs** to enable automation and intelligent features
+- 🧠 Focus on **clean architecture, maintainability, and system reliability**
+- 🎯 Strong product mindset with emphasis on **business impact and user value**
 
-### 💻 Languages
-`C#` `JavaScript` `TypeScript` `SQL`
+I am adaptable, collaborative, and quick to learn, and I thrive in environments where **ownership, continuous improvement, and engineering excellence** are valued.
 
-### ⚙️ Backend & Frameworks
-`.NET` `.NET Core` `ASP.NET Core` `Entity Framework`
-
-### 🌐 Frontend
-`HTML` `CSS` `JavaScript` `jQuery` `KnockoutJS`
-
-### 🤖 AI & Integrations
-`OpenAI API` `LLM Integration` `Prompt Engineering`
-
-### ☁️ Cloud & DevOps
-`AWS EC2` `AWS S3` `AWS Lambda` `AWS Cognito` `AWS CDK`  
-`CI/CD (TeamCity)` `CloudWatch`
-
-### 🧰 Tools
-`Git` `JIRA` `Visual Studio` `SQL Server`
+💡 Passionate about building **reliable, scalable software with real-world impact**.
 
 ---
 
-## 🚀 Professional Experience
+## 🧠 Skills
 
-### 💼 Software Engineer  
-**Contour Software (Constellation Software Inc.)**  
-📅 Sept 2023 – Present  
+<table>
+<tr>
+<td width="50%">
 
-- Designed and implemented **scalable backend systems & APIs**
-- Integrated **AI features into marketing workflows**
-- Managed **production deployments and issue resolution**
-- Conducted **code reviews & architectural improvements**
-- Built **full-stack enterprise features**
+### BACKEND
+
+C# • .NET • .NET Core • ASP.NET Core
+REST APIs • Microservices • Distributed Systems
+API Design • Secure Coding • Performance Optimization
+
+### DATABASE
+
+SQL Server • Entity Framework
+
+### AI / LLM
+
+AI Integration in Production Systems  
+LLM Integration • Intelligent Automation  
+AI-Powered Applications • Prompt Engineering  
+
+</td>
+<td width="50%">
+
+### FRONTEND
+
+JavaScript • TypeScript • HTML • CSS
+jQuery • KnockoutJS • **React**
+
+### CLOUD / DEVOPS
+
+AWS EC2 • S3 • Lambda • Cognito
+CloudWatch • AWS CDK • CI/CD • TeamCity
+
+### TOOLS
+
+Git • JIRA • Agile/Scrum • Visual Studio • SSMS
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 💼 Full Stack Developer  
-📅 Aug 2022 – Sept 2023  
+## 💼 Experience
 
-- Developed **end-to-end applications (frontend + backend + DB)**
-- Created **technical design documents (TDDs)**
-- Maintained **high-quality, scalable architecture**
-- Debugged and resolved **critical production issues**
+### 💼 Software Developer
 
----
-
-### 🚀 Hydra AI (MVP Engineering & Prototyping)  
-📅 April 2025 – May 2025  
-
-- Built **AI-powered MVP features using React, Node.js, Python**
-- Integrated **OpenAI APIs with real-time data**
-- Used **AWS Lambda + CDK for scalable infra**
-- Optimized performance and resolved runtime issues
+**Contour Software (Constellation Software Inc.)**
+📍 United States | Remote
+📅 Aug 2022 – Present
 
 ---
 
-## 🎓 Education
+#### 🔹 Paradym – Powered by Constellation1 *(Current)*
 
-🎓 **Bachelor of Computer Science**  
-FAST - National University of Computer & Emerging Sciences  
-📅 2018 – 2022  
+📅 Sept 2023 – Present
+
+* Developed full stack enterprise features using **C#, .NET, ASP.NET Core**
+* Built backend services, APIs, frontend modules, and database layers
+* Integrated **AI-driven workflows** for automation and content generation
+* Contributed to system design and technical documentation
+* Managed deployments and resolved production issues with root cause analysis
+
+**Tech:** `.NET` `.NET Core` `ASP.NET Core` `Microservices` `JavaScript` `React` `SQL Server` `Git`
+
+---
+
+#### 🔹 Commissions Software – Powered by Constellation1
+
+📅 Aug 2022 – Sept 2023
+
+* Delivered enterprise features using **.NET and ASP.NET Core**
+* Contributed to architecture documentation and peer reviews
+* Maintained scalable backend and frontend systems
+* Supported production deployments and critical issue resolution
+
+**Tech:** `.NET` `.NET Core` `ASP.NET Core MVC` `JavaScript` `jQuery` `SQL Server` `Entity Framework`
+
+---
+
+#### 🔹 Hydra AI – MVP Engineering & Prototyping
+
+📅 Apr 2025 – May 2025
+
+* Built AI-powered features using **React, Node.js, Python**
+* Integrated **OpenAI APIs with real-time systems**
+* Developed serverless infrastructure using AWS Lambda & CDK
+* Optimized system performance and resolved runtime issues
+
+**Tech:** `React` `Node.js` `Python` `OpenAI API` `AWS Lambda`
 
 ---
 
@@ -115,9 +147,7 @@ FAST - National University of Computer & Emerging Sciences
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakkar-kaleem&layout=compact&theme=tokyonight" />
 </p>
 
----
-
-## 🔥 What I’m Currently Working On
+## 🔥 Currently Working On
 
 ```csharp
 class AbubakkarKaleem
@@ -130,10 +160,17 @@ class AbubakkarKaleem
         "Microservices architecture",
         "Cloud-native applications"
     };
-
-    public string[] Learning = {
-        "Advanced LLM systems",
-        "AI automation pipelines",
-        "Distributed system design"
-    };
 }
+```
+
+---
+
+## 🤝 Connect With Me
+
+* LinkedIn: linkedin.com/in/muhammad-abubakkar-kaleem-a6441a184
+* Email: [abubakarkaleem23@gmail.com](mailto:abubakarkaleem23@gmail.com)
+* Portfolio: abubakkarkaleem.vercel.app
+
+---
+
+⭐ Building scalable systems with intelligent features
